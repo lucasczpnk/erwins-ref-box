@@ -1,8 +1,9 @@
-# erwins-ref-box
+# Erwin's Reference Box
 Box of brain goodies!
 Topics galore!
+Aiming to fill this (me and you, also) with so much knowledge that would leave Schrödinger in the dust (Tall order, but still..).
 
-Feel free to collaborate!
+Feel free to collaborate or even fork and use it as you wish!
 
 
 ## Summary
