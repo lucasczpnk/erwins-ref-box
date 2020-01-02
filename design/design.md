@@ -1,3 +1,3 @@
 ## Design Topics
 
-- [Typography](tipography/typography.md)
+- [Typography](typography/typography.md)
