@@ -1,7 +1,8 @@
 # Erwin's Reference Box
 Box of brain goodies!
 Topics galore!
-Aiming to fill this (me and you, also) with so much knowledge that would leave Schrödinger in the dust (Tall order, but still..).
+
+Aiming to fill this with knowledge.
 
 Feel free to collaborate or even fork and use it as you wish!
 
